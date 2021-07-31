@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: core
+  application:
+    name: service-base-consume

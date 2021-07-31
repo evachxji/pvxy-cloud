@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: core
+  application:
+    name: service-base-provider
+
