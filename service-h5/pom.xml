@@ -17,7 +17,6 @@
 			<groupId>com.pvxy</groupId>
 			<artifactId>pvxy-common</artifactId>
 		</dependency>
-
 		<dependency>
 			<groupId>com.pvxy</groupId>
 			<artifactId>service-base-consume</artifactId>

@@ -14,9 +14,8 @@ public class BaseController {
     @Autowired
     private ConfigApi configApi;
 
-    @GetMapping
-    public R test2() {
+    @GetMapping("/nihao")
+    public R nihao() {
         return R.success(configApi.echo("nnnn"));
     }
-
 }

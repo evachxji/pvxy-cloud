@@ -24,14 +24,4 @@
         </dependency>
     </dependencies>
 
-    <dependencyManagement>
-        <dependencies>
-            <dependency>
-                <groupId>com.pvxy</groupId>
-                <artifactId>service-base-consume</artifactId>
-                <version>${pvxy-cloud.version}</version>
-            </dependency>
-        </dependencies>
-    </dependencyManagement>
-
 </project>
